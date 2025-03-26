@@ -77,13 +77,13 @@ Imagine your neighborhood. Small environmental issues—litter, illegal dumping,
 Our solution is simple: a community-driven platform that empowers residents to capture and share these issues with just a click. Snap a photo, add a quick note, and let our AI do the heavy lifting—identifying critical problems, categorizing them, and even initiating polls that automatically connect you with local authorities.
 
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/cc8d7e2f-a4cc-4168-812f-4c88ae5f36f9" alt="Demo-GIF">
+    <img src="https://github.com/IshmamF/Envolve/blob/main/withoutlandingdemo-ezgif.com-optimize.gif" alt="Demo-GIF">
 </div>
 
 ### How it works
 
 <div align="center">
-  <img src='https://d112y698adiu2z.cloudfront.net/photos/production/software_photos/003/312/477/datas/original.png' width=800 />
+  <img src='https://github.com/IshmamF/Envolve/blob/main/envolveSystemDesign.png' width=800 />
 </div>
 
 Intelligent Reporting & Analysis: 
